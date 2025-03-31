@@ -1,9 +1,9 @@
 # Created by DragonNoir_off
 # link to GitHub profile : https://github.com/DragonNoir-off
-# Last edit -> 30/03/2025
-# version [ 1 ]
+# Last edit -> 31/03/2025
+# version [ 2 ]
 
-# Originaly use to be put into a NumWork Calculator
+# Version - PC
 
 import math
 
