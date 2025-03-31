@@ -16,7 +16,7 @@ class Formater():
 
 # Main Class
 class Calculus:
-    def Triangle_Bernoulli__Return_Number_Of_Issue(iteration, success):
+    def Triangle_Bernoulli__Return_Number_Of_Issue(iteration : int, success : int):
         Triangle = [1,1]
         
         for i in range(2, iteration+1):
